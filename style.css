@@ -1,0 +1,23 @@
+.parent{
+    height: 100vh;
+    height:200px;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    border:5px solid rgb(0, 3, 192);
+    stroke:rgb(0, 3, 192);
+    border-width: 50%;
+    margin-top: 6%;
+    margin-left: 39%;
+}
+
+h1{
+    width: 50px;
+    }
+.p-3{
+    color: black;
+  -webkit-text-fill-color: aqua;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  margin-left: 40%; 
+}
